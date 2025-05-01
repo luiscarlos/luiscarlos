@@ -1,12 +1,12 @@
-## Olá! Eu sou o Luis Carlos 👋
+# 👨🏼‍🦰 Olá! Eu sou o Luis Carlos 👋
 
+**`Desenvolvedor FullStack`**
 
-  
-# 👩🏻‍💻 Larissa Kich
+Olá, meu nome é Luis Carlos, tenho 42 anos e sou formado em Ciência da Computação, com pós-graduação em Engenharia de Software. Também possuo certificação em conceitos básicos de Scrum.
 
-**`Desenvolvedora FullStack`**
+Atuo há mais de 6 anos como profissional de QA, garantindo a qualidade e confiabilidade de sistemas. No entanto, atualmente estou em transição de carreira dentro da área de tecnologia, focando meus estudos em desenvolvimento de software, com o objetivo de ampliar minhas contribuições e atuar diretamente na construção de soluções tecnológicas.
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Sou apaixonado por tecnologia e estou sempre em busca de aprendizado e evolução profissional.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
